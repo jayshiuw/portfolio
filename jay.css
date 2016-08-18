@@ -1,5 +1,10 @@
-h1, h2, h3{
-			font-family: arial;
-			color: yellow;
-			backgroud-color: rgb (185,179,175);
+h1{
+	font-family: arial;
+	color: grey;
+	background-color: yellow;
 }
+
+body{
+	background-color: lightblue;
+}
+
