@@ -1,12 +1,16 @@
 h1{
 	font-family: comic sans ms;
 	color: black;
-	background-color: antiqueWhite;
+
 }
 
 body{
 	background-color: LavenderBlush;
-	color: darkCyan;
+	color: black;
+}
+
+p#nav{
+	color:black;
 }
 
 tr{
