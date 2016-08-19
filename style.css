@@ -1,7 +1,6 @@
 h1{
-	font-family: comic sans ms;
+	font-family: comic, arial, times;
 	color: black;
-
 }
 
 table{
@@ -16,6 +15,6 @@ body{
 
 tr{
 	display: block;
-	padding: 20px 25px;
+	padding: 40px 25px;
 	text-align: center;
 }
