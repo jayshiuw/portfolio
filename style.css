@@ -26,3 +26,8 @@ p#nav:first-letter{
 p#main:first-letter{
 	font-size: 200%;
 }
+#navigation{
+	margin: 0 auto;
+	width: 968px;
+	text-align: left;
+}
