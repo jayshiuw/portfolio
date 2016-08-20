@@ -27,7 +27,23 @@ p#main:first-letter{
 	font-size: 200%;
 }
 #navigation{
+	background-color: #222;
 	margin: 0 auto;
 	width: 968px;
 	text-align: left;
+}
+#navigation ul{
+	padding: 0;
+	position: relative;
+	list-style-type: none;
+	margin:0;
+}
+#navigation ul li{
+	display: inline-block;
+}
+
+#navigationn ul li:hover{
+	
+}
+
 }
