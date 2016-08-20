@@ -19,7 +19,10 @@ tr{
 	padding: 15px 40px;
 	text-align: center;
 }
-p:first-letter{
+p#nav:first-letter{
 	
+	font-size: 200%;
+}
+p#main:first-letter{
 	font-size: 200%;
 }
