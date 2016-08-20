@@ -4,7 +4,7 @@ body {
 }
 
 .introduction {
-    background: url(http://i.imgur.com/1cFhkuv.jpg) no-repeat center center; 
+    background: url(http://i.imgur.com/1cFhkuv.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
