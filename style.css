@@ -6,6 +6,7 @@ h1{
 table{
 	background-color: Gainsboro;
 	color: black;
+	word-spacing: len;
 }
 
 body{
