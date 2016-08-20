@@ -1,9 +1,5 @@
-body {
-    margin: 0px;
-    padding: 0px;
-}
 
-.introduction {
+html {
     background: url(http://i.imgur.com/1cFhkuv.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
