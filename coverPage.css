@@ -4,7 +4,7 @@ body {
 }
 
 .introduction {
-    height: max-height;
+    height: 160vh;
     width: 100%;
     background: url(http://i.imgur.com/TC7FGmk.jpg) no-repeat center center; 
     -webkit-background-size: cover;
