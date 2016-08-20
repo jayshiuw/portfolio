@@ -4,8 +4,6 @@ body {
 }
 
 .introduction {
-    height: 150vh;
-    width: 110%;
     background: url(http://i.imgur.com/1cFhkuv.jpg) no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
