@@ -33,15 +33,18 @@ body{
 }
 
 #navigation ul li:hover{
-	background-color: Ginsboro;
+	background-color: #333;
 }
 
 #navigation ul li a,visited{
 	color: #ccc;
 	display: block;
-	padding: 10px;
+	padding: 5px;
+	text-decoration: none;
 }
 
 #nav ul li a:hover{
+	color: #ccc;
+	text-decoration: none;
 	
 }
