@@ -13,9 +13,3 @@ body {
     background-size: cover;
     position: relative;
 }
-
-.test {
-    height: 160vh;
-    width: 100%;
-    background-color: blue;
-}
