@@ -19,19 +19,19 @@ tr{
 	padding: 15px 40px;
 	text-align: center;
 }
-p#nav:first-letter{
+#nav:first-letter{
 	
 	font-size: 200%;
 }
-p#main:first-letter{
+#main:first-letter{
 	font-size: 200%;
 }
 #navigation{
-	background-color: #222;
 	margin: 0 auto;
 	width: 968px;
 	text-align: left;
 }
+
 #navigation ul{
 	padding: 0;
 	position: relative;
@@ -43,7 +43,5 @@ p#main:first-letter{
 }
 
 #navigationn ul li:hover{
-	
 }
 
-}
