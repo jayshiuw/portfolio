@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.introduction {
+    height: 100vh;
+    width: 100%;
+    background: url(http://media.istockphoto.com/photos/cloudscape-against-blue-sky-with-wood-flooring-picture-id589454184) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+
+.test {
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+}
