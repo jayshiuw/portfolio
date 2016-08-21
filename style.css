@@ -2,8 +2,9 @@ h1{
 	font-family: comic, arial, times;
 	color: black;
 }
-
-
+#main{
+	float:left;
+}
 body{
 	background-color: LavenderBlush;
 	color: black;
