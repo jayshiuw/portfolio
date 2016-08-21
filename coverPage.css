@@ -7,9 +7,21 @@ body{
     position: relative;
 }
 
-#cover.box{
+div.box{
+    width:  50px;
+    height: 20px;
+    background-color: #bbbbaa
+}
+
+#cover a{
     width: 10%;
-    height:10%;
+    height: 10%;
+    text-decoration: none;
+    color: black;
+}
+
+#cover a:hover{
+    color:white;
 }
 
 #credit{
