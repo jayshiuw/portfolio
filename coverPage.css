@@ -24,6 +24,9 @@ p#cover a{
     font-size: 50px ;
     text-decoration: none;
     color: black;
+    position: relative;
+    top:10px;
+    left:100px;
 }
 
 #cover a:hover{
@@ -32,4 +35,6 @@ p#cover a{
 
 #credit{
     text-align: left;
+    position: relative;
+    top: 200px;
 }
