@@ -15,8 +15,8 @@ div.box{
 }
 
 p#cover a{
-    border: thick solid darkcyan;
-    padding: 50px;
+    border: thick solid gray;
+    padding: 5px;
     text-align: center;
     
     width: 10%;
