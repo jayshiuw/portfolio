@@ -5,7 +5,7 @@ body{
     -o-background-size: cover;
     background-size: cover;
     position: relative;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 div.box{
@@ -24,7 +24,7 @@ p#cover a{
     font-size: 50px ;
     text-decoration: none;
     color: black;
-    position: relative;
+    position: fixed;
     top: 300px;
     left:500px;
 }
@@ -35,6 +35,6 @@ p#cover a{
 
 #reference{
     text-align: left;
-    position: relative;
+    position: fixed;
     top: 500px;
 }
