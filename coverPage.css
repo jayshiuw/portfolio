@@ -1,8 +1,16 @@
-html {
+#coverpage {
     background:url(http://i.imgur.com/doBFhh6.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     position: relative;
+}
+
+#cover{
+    padding: 20px;
+}
+
+#crediy{
+    position: bottom;
 }
