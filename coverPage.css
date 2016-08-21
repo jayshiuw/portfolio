@@ -24,7 +24,7 @@ p#cover a{
     font-size: 50px ;
     text-decoration: none;
     color: black;
-    position: fixed;
+    position: relative;
     top: 300px;
     left:500px;
 }
@@ -35,6 +35,6 @@ p#cover a{
 
 #reference{
     text-align: left;
-    position: fixed;
+    position: relative;
     top: 500px;
 }
