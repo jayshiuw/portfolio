@@ -4,6 +4,8 @@ h1{
 }
 p#main{
 	float:right;
+	width: 300px;
+	margin: 10px;
 }
 body{
 	background-color: LavenderBlush;
