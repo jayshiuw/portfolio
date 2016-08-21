@@ -16,6 +16,7 @@ div.box{
 #cover a{
     width: 10%;
     height: 10%;
+    font-size: 20px ;
     text-decoration: none;
     color: black;
 }
