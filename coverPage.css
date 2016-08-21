@@ -8,15 +8,15 @@ body{
 }
 
 div.box{
-    width:  50px;
-    height: 20px;
+    width:  200px;
+    height: 100px;
     background-color: #bbbbaa
 }
 
 #cover a{
     width: 10%;
     height: 10%;
-    font-size: 20px ;
+    font-size: 50px ;
     text-decoration: none;
     color: black;
 }
